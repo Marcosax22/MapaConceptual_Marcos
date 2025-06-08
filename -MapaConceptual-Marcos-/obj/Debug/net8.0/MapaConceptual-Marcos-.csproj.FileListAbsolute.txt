@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\bin\Debug\net8.0\MapaConceptual-Marcos-.exe
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\bin\Debug\net8.0\MapaConceptual-Marcos-.deps.json
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\bin\Debug\net8.0\MapaConceptual-Marcos-.runtimeconfig.json
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\bin\Debug\net8.0\MapaConceptual-Marcos-.dll
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\bin\Debug\net8.0\MapaConceptual-Marcos-.pdb
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.AssemblyInfo.cs
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.dll
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\refint\MapaConceptual-Marcos-.dll
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.pdb
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\MapaConceptual-Marcos-.genruntimeconfig.cache
+C:\Users\marco\Downloads\-MapaConceptual-Marcos\MapaConceptual-Marcos-\obj\Debug\net8.0\ref\MapaConceptual-Marcos-.dll

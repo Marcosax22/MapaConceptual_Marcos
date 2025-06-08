@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\miembrodelacomunidad\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\miembrodelacomunidad\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\administrador\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\administrador\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\maestro\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\maestro\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\administrativo\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\administrativo\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\newfolder\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\newfolder\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\persona.cs\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\persona.cs\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\exalumno\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\exalumno\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\identidades\\docente\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:identidades\\docente\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|c:\\users\\marco\\downloads\\-mapaconceptual-marcos\\mapaconceptual-marcos-\\mapaconceptual-marcos-.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A74FDC36-4B77-4F9B-B5D8-C0EB531BCE85}|MapaConceptual-Marcos-.csproj|solutionrelative:mapaconceptual-marcos-.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maestro.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Maestro\\Maestro.cs",
+              "RelativeDocumentMoniker": "Identidades\\Maestro\\Maestro.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Maestro\\Maestro.cs",
+              "RelativeToolTip": "Identidades\\Maestro\\Maestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:56:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Administrador\\Administrador.cs",
+              "RelativeDocumentMoniker": "Identidades\\Administrador\\Administrador.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Administrador\\Administrador.cs",
+              "RelativeToolTip": "Identidades\\Administrador\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:55:34.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Docente\\Docente.cs",
+              "RelativeDocumentMoniker": "Identidades\\Docente\\Docente.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Docente\\Docente.cs",
+              "RelativeToolTip": "Identidades\\Docente\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:54:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Administrativo\\Administrativo.cs",
+              "RelativeDocumentMoniker": "Identidades\\Administrativo\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Administrativo\\Administrativo.cs",
+              "RelativeToolTip": "Identidades\\Administrativo\\Administrativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:53:01.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Empleado\\Empleado.cs",
+              "RelativeDocumentMoniker": "Identidades\\Empleado\\Empleado.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Empleado\\Empleado.cs",
+              "RelativeToolTip": "Identidades\\Empleado\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:52:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\ExAlumno\\ExAlumno.cs",
+              "RelativeDocumentMoniker": "Identidades\\ExAlumno\\ExAlumno.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\ExAlumno\\ExAlumno.cs",
+              "RelativeToolTip": "Identidades\\ExAlumno\\ExAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:51:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\NewFolder\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Identidades\\NewFolder\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\NewFolder\\Estudiante.cs",
+              "RelativeToolTip": "Identidades\\NewFolder\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:45:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapaConceptual-Marcos-",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\MapaConceptual-Marcos-.csproj",
+              "RelativeDocumentMoniker": "MapaConceptual-Marcos-.csproj",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\MapaConceptual-Marcos-.csproj",
+              "RelativeToolTip": "MapaConceptual-Marcos-.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T01:42:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiembroDeLaComunidad.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\MiembroDeLaComunidad\\MiembroDeLaComunidad.cs",
+              "RelativeDocumentMoniker": "Identidades\\MiembroDeLaComunidad\\MiembroDeLaComunidad.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\MiembroDeLaComunidad\\MiembroDeLaComunidad.cs",
+              "RelativeToolTip": "Identidades\\MiembroDeLaComunidad\\MiembroDeLaComunidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:41:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Persona.cs\\Persona.cs",
+              "RelativeDocumentMoniker": "Identidades\\Persona.cs\\Persona.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Identidades\\Persona.cs\\Persona.cs",
+              "RelativeToolTip": "Identidades\\Persona.cs\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:39:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\-MapaConceptual-Marcos\\MapaConceptual-Marcos-\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:25:13.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

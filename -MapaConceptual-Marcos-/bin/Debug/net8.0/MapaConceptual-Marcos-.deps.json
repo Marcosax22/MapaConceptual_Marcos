@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MapaConceptual-Marcos-/1.0.0": {
+        "runtime": {
+          "MapaConceptual-Marcos-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MapaConceptual-Marcos-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
